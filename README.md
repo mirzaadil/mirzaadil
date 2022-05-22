@@ -12,9 +12,6 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mirzaadil&label=Profile%20views&color=0e75b6&style=flat" alt="mirzaadil" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mirzaadil" alt="mirzaadil" /></a> </p>
 
 - 💬 Ask me about **Highly motivated, self-paced, result-oriented, More than 8 years in large-scale applications in e-commerce, Fintech, telco, Business Application, and POS design and development. Experienced with major Java, Android, Kotlin.  Interested in learning new tools and technologies to utilize them in proper and suitable places.  In love with Mobile Application Design and Develop discussion of Challenging Enterprise-Scale Systems.**
 
