@@ -3,7 +3,13 @@
 <h1 align="center">Hi 👋, I'm Mirza Adil</h1>
 <h3 align="center">A passionate Android Application developer</h3>
 
-- 💬 Ask me about **Highly motivated, self-paced, result-oriented, More than 8 years in large-scale applications in e-commerce, Fintech, telco, Business Application, and POS design and development. Experienced with major Java, Android, Kotlin.  Interested in learning new tools and technologies to utilize them in proper and suitable places.  In love with Mobile Application Design and Develop discussion of Challenging Enterprise-Scale Systems.**
+Highly skilled Android Engineer with over 10 years of extensive experience in designing, developing, and maintaining innovative mobile applications. Proficient in Java and Kotlin, with a strong understanding of Android SDK, frameworks, and best practices for app development. Proven track record in delivering high-quality applications that enhance user experience and meet business requirements.
+
+Demonstrated expertise in all stages of the software development lifecycle, including requirements gathering, application architecture, UI/UX design, implementation, testing, and deployment. Strong experience with RESTful APIs, third-party libraries, Hardware integration with Android, and version control systems such as Git.
+
+Adept at collaborating with cross-functional teams to produce efficient, scalable applications, and passionate about staying updated with the latest industry trends, tools, and technologies. Committed to code quality and best practices, utilizing Agile methodologies to ensure timely delivery of applications.
+
+Skilled in performing code reviews, mentoring junior developers, and leading technical discussions to promote a culture of knowledge sharing. Successfully delivered multiple applications to the Google Play Store, including high-profile projects that received positive user feedback and significantly improved user engagement.
 
 - 📫 How to reach me **mirza.madil@gmail.com**
 
