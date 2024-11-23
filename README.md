@@ -3,13 +3,6 @@
 <h1 align="center">Hi 👋, I'm Mirza Adil</h1>
 <h3 align="center">A passionate Android Application developer</h3>
 
-<span data-target="animated-image.imageContainer">
-            <img data-target="animated-image.replacedImage" alt="Coding" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" width="400" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="400" height="300"></canvas></span>
-
-
-
-
 - 💬 Ask me about **Highly motivated, self-paced, result-oriented, More than 8 years in large-scale applications in e-commerce, Fintech, telco, Business Application, and POS design and development. Experienced with major Java, Android, Kotlin.  Interested in learning new tools and technologies to utilize them in proper and suitable places.  In love with Mobile Application Design and Develop discussion of Challenging Enterprise-Scale Systems.**
 
 - 📫 How to reach me **mirza.madil@gmail.com**
